@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Victor Canal, a student at [ESILV](https://www.esilv.fr "ESILV's website") studying Computer Science and Security, and the Internet of Things.
 ***
-📫 [victor.canal@edu.devinci.fr](mailto:victor.canal@edu.devinci.fr)
+📫 [victor.canal.pro@outlook.com](mailto:victor.canal.pro@outlook.com)
 <!--
 **victorcanal/victorcanal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
