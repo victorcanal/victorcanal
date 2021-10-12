@@ -2,7 +2,7 @@
 I'm Victor Canal, a student at [ESILV](https://www.esilv.fr "ESILV's website") studying Computer Science and Security, and the Internet of Things.
 ***
 📫 [victor.canal.pro@outlook.com](mailto:victor.canal.pro@outlook.com) <br>
-<img src="https://assets.tryhackme.com/img/favicon.png" height="16" width="16"> [Link to my TryHackMe profile](https://tryhackme.com/p/vixa)
+<img src="https://assets.tryhackme.com/img/favicon.png" height="20" width="20"> [Link to my TryHackMe profile](https://tryhackme.com/p/vixa)
 <!--
 **victorcanal/victorcanal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
