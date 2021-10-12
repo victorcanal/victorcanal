@@ -4,6 +4,12 @@ I'm Victor Canal, a student at [ESILV](https://www.esilv.fr "ESILV's website") s
 📫 [victor.canal.pro@outlook.com](mailto:victor.canal.pro@outlook.com) <br>
 <img src="https://assets.tryhackme.com/img/favicon.png" height="20" width="20"> [Link to my TryHackMe profile](https://tryhackme.com/p/vixa) <br>
 <img src="https://www.root-me.org/IMG/siteon0.svg?1574327304" height="20" width="20"> [Link to my RootMe profile](https://www.root-me.org/victorcanal)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorcanal)](https://github.com/victorcanal)
+
+
+
+
 <!--
 **victorcanal/victorcanal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
